@@ -1,0 +1,72 @@
+body {
+
+    background-color: black; 
+    color: white; 
+}
+
+header {
+    text-align: center;
+    color: orange;
+     padding: 10px;
+}
+
+h1, h2, h3 {
+    color: orange; 
+}
+
+
+p {
+    margin: 10px 0;
+}
+
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 10px auto;
+}
+
+
+.video {
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: orange;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: black; 
+}
+
+
+table {
+    width: 100%;
+    border: 1px solid white;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th, table td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+
+footer {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    padding: 10px;
+}
